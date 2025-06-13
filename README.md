@@ -1,6 +1,6 @@
 <!-- HEADER HIASAN -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjdienF3cTQxZWIxMnlzcXV1NXRkbnA0Zndncjg0c3BrbzlrMjk3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4no7ul3pa571e/giphy.gif" width="750px" >
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnk0eWp5anN5MDI0cTJ5dHRvZDRjemNsZnlpcGJqeG50a2o1Mjk0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wkW0maGDN1eSc/giphy.gif" width="550px" >
 </p>
 
 <h2 align="center">Hi, I'm Bintang Rizqi 🌟</h2>
@@ -9,6 +9,7 @@
   🧑‍💻 Informatics Student & Tech Explorer <br>
   💬 Passionate in Web Dev, Design, and Anime-styled UI <br>
   📍 Based in Indonesia | Code, Games and Design Graphics
+ | I'd like to share open discuss with everyone
 </p>
 
 ---
@@ -45,15 +46,15 @@ Sistem informasi klinik berbasis PHP Native untuk rekam medis dan diagnosis lab 
 
 ## 📫 Let's Connect
 
-- 📮 Email: **bintang.rizqi@email.com**
-- 💼 LinkedIn: [linkedin.com/in/Bintang-R17](https://linkedin.com/in/Bintang-R17)
+- 📮 Email: **binrzan@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/Bintang-Rizqi-Anugrah](https://linkedin.com/in/Bintang-Rizqi-Anugrah)
 - 🌐 Personal Site: [Bintang-R17.github.io](https://Bintang-R17.github.io) *(optional)*
-- 💬 Discord: `bintangrizqi#1234` *(jika mau ditampilkan)*
+- 💬 Discord: bibinhere 
 
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/NxzUEF8j4HMAAAAC/aot-anime.gif" width="300px"><br>
-  <i>“HEHE” – Bintang-R17</i>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA3MTYxM2YxOXVnZno1ZzN2aWw3YjNseWd0MWR5cmV0NmIzcHZ3ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bqSkJ4IwNcoZG/giphy.gif" width="400px"><br>
+  <i>“Hehe” – Bintang-R17</i>
 </p>
 
