@@ -1,6 +1,6 @@
 <!-- HEADER HIASAN -->
 <p align="center">
-  <img src="https://media.tenor.com/ZmL0Nyk0JvwAAAAC/konata-izumi-anime.gif" width="200px"> 
+  [<img src="https://media.tenor.com/ZmL0Nyk0JvwAAAAC/konata-izumi-anime.gif" width="200px"> ](https://tenor.com/view/gojo-satoru-gojo-satoru-jjk-jujutsu-kaisen-gif-10915596084714213545)
 </p>
 
 
