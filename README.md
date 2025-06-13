@@ -1,6 +1,6 @@
 <!-- HEADER HIASAN -->
 <p align="center">
-  <img src="https://media.tenor.com/ZmL0Nyk0JvwAAAAC/konata-izumi-anime.gif" width="200px">
+  <img src="https://media.tenor.com/ZmL0Nyk0JvwAAAAC/konata-izumi-anime.gif" width="200px"> 
 </p>
 
 
