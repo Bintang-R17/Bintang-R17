@@ -55,6 +55,6 @@ Sistem informasi klinik berbasis PHP Native untuk rekam medis dan diagnosis lab 
 
 <p align="center">
   <img src="https://media.tenor.com/NxzUEF8j4HMAAAAC/aot-anime.gif" width="300px"><br>
-  <i>“Just keep moving forward.” – Eren Yeager</i>
+  <i>“HEHE” – Bintang-R17</i>
 </p>
 
