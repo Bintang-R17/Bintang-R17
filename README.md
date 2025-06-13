@@ -1,13 +1,14 @@
 <!-- HEADER HIASAN -->
-<div class="tenor-gif-embed" data-postid="10915596084714213545" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/gojo-satoru-gojo-satoru-jjk-jujutsu-kaisen-gif-10915596084714213545">Gojo Satoru GIF</a>from <a href="https://tenor.com/search/gojo-gifs">Gojo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NjdienF3cTQxZWIxMnlzcXV1NXRkbnA0Zndncjg0c3BrbzlrMjk3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4no7ul3pa571e/giphy.gif" width="750px" >
+</p>
 
 <h2 align="center">Hi, I'm Bintang Rizqi 🌟</h2>
 
 <p align="center">
   🧑‍💻 Informatics Student & Tech Explorer <br>
-  💬 Passionate in Web Dev, AI, and Anime-styled UI <br>
-  📍 Based in Indonesia | 🕹 Coffee, Code & Cosplay Dreams
+  💬 Passionate in Web Dev, Design, and Anime-styled UI <br>
+  📍 Based in Indonesia | Code, Games and Design Graphics
 </p>
 
 ---
