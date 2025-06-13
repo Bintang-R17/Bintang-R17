@@ -1,6 +1,6 @@
 <!-- HEADER HIASAN -->
 <p align="center">
-  <img src="https://media.tenor.com/f2QHtSAdXssAAAAC/nezuko-demon-slayer.gif" width="200px">
+  [<img src="https://media.tenor.com/f2QHtSAdXssAAAAC/nezuko-demon-slayer.gif" width="200px">](https://tenor.com/view/konata-luckystar-anime-cute-gif-10756063490688396842)
 </p>
 
 <h2 align="center">Hi, I'm Bintang Rizqi 🌟</h2>
