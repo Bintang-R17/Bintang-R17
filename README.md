@@ -1,6 +1,6 @@
 <!-- HEADER HIASAN -->
 <p align="center">
-  <img src="https://media.tenor.com/-u2G5VwTTxYAAAAC/nezuko-smile.gif" width="200px">
+  <img src="https://media.tenor.com/f2QHtSAdXssAAAAC/nezuko-demon-slayer.gif" width="200px">
 </p>
 
 <h2 align="center">Hi, I'm Bintang Rizqi 🌟</h2>
@@ -57,6 +57,3 @@ Sistem informasi klinik berbasis PHP Native untuk rekam medis dan diagnosis lab 
   <i>“Just keep moving forward.” – Eren Yeager</i>
 </p>
 
-<p align="center">
-  Made with ❤️ by Bintang Rizqi
-</p>
