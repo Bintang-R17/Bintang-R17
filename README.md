@@ -48,7 +48,6 @@ Sistem informasi klinik berbasis PHP Native untuk rekam medis dan diagnosis lab 
 
 - 📮 Email: **binrzan@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/Bintang-Rizqi-Anugrah](https://linkedin.com/in/Bintang-Rizqi-Anugrah)
-- 🌐 Personal Site: [Bintang-R17.github.io](https://Bintang-R17.github.io) *(optional)*
 - 💬 Discord: bibinhere 
 
 ---
