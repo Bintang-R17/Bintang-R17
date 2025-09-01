@@ -1,6 +1,6 @@
 <!-- HEADER HIASAN -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnk0eWp5anN5MDI0cTJ5dHRvZDRjemNsZnlpcGJqeG50a2o1Mjk0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wkW0maGDN1eSc/giphy.gif" width="550px" >
+<!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnk0eWp5anN5MDI0cTJ5dHRvZDRjemNsZnlpcGJqeG50a2o1Mjk0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wkW0maGDN1eSc/giphy.gif" width="550px" > -->
 </p>
 
 <h2 align="center">Hi, I'm Bintang Rizqi 🌟</h2>
